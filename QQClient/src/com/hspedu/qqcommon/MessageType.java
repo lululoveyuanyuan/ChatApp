@@ -1,4 +1,4 @@
-package com.hspedu.qqcommom;
+package com.hspedu.qqcommon;
 /*
     * This interface is used to define the type of message.
  */
